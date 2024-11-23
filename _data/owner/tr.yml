@@ -5,7 +5,7 @@
 brand: "TheLight101"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Dev & Designer"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Egemen Eren Doğan"
@@ -13,9 +13,9 @@ name: "Egemen Eren Doğan"
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "$site_welcome"
+  top_header_line1: "$site_greetings"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand"
+  top_header_line2: "$site_welcome"
 
 # about page sub title
 about:
@@ -42,19 +42,19 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Meta açıklamanız."
+meta_common_description: "Merhaba, ben 15 yaşında bir tasarımcıyım! Unreal Engine 5'e özel ilgim var ve Blueprint ile projeler geliştiriyorum. 3D modelleme, grafik tasarımı ve daha birçok alanda yetenekliyim. Ayrıca Türkçe, İngilizce ve Almanca biliyorum, bu da farklı projelerde geniş bir iletişim ağına olanak sağlıyor."
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "/thelight101"
+  - github: "thelight101"
   - email: "egemenerendogan@gmail.com"
-  - linkedin: "/egemen-dogan-1333ba287"
+  - linkedin: "egemen-dogan-1333ba287"
   #- twitter: "/Light101real"
   #- mastodon: ""
   - instagram: "egemenerendogan/"
-  - youtube: "/@TheLlight101"
+  - youtube: "@TheLlight101"
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
