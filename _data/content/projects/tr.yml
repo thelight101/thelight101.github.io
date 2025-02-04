@@ -5,10 +5,10 @@
 page_data:
   main:
     header: "Projeler"
-    info: "Projeler sayfanızın açıklaması."
+    info: "Çalışmalarım Ve Projelerim"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":101heading.png"
     back_color: "lightblue"
 
   category:
