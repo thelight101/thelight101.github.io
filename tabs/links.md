@@ -62,7 +62,7 @@ page_data:
     - type: id_projects
       title: "Projects"
       url: "https://thelight101.github.io/tabs/projects.html"
-      info: "My Projects listed here. (It's already on the left side. :) )"
+      info: "My Projects listed here. (It's already on the left side. :)"
 
     # jekyiiliquid
     - type: id_socials
