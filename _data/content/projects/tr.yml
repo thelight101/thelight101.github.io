@@ -11,20 +11,20 @@ page_data:
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
-  category:
-    - title: "Örnek"
-      type: id_example
-      color: "gray"
-    - title: "Resim"
-      type: id_picture
-      color: "#62b462"
-    - title: "Ünlü Sözleri"
-      type: id_quote
-      color: "#2FD0ED"
+ category:
+    - title: "Yazılım"
+      type: id_yazılım
+      color: "#4b249e"
+    - title: "Tasarım"
+      type: id_tasarım
+      color: "#f54a1b"
+    - title: "Oyun"
+      type: id_oyun
+      color: "#278522"
 
   list:
     # example
-    - type: id_example
+    - type: id_yazılım
       project_name: "Örnek Proje"
       project_excerpt: "Örnekler"
       img: ":project1_thumb.jpg"
@@ -172,7 +172,7 @@ page_data:
         ```
 
     # picture
-    - type: id_picture
+    - type: id_tasarım
       project_name: "Örnek Proje"
       project_excerpt: "Resim"
       img: ":project2_thumb.jpg"
@@ -185,7 +185,7 @@ page_data:
         ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_quote
+    - type: id_oyun
       project_name: "Örnek Proje"
       project_excerpt: "William Shakespeare"
       #img: ":project1_thumb.jpg"
@@ -206,7 +206,7 @@ page_data:
         But bears it out even to the edge of doom.
         If this be error and upon me proved,
         I never writ, nor no man ever loved.
-    - type: id_quote
+    - type: id_oyun
       project_name: "Örnek Proje"
       project_excerpt: "Albert Einstein"
       img: ":project2_thumb.jpg"
@@ -214,7 +214,7 @@ page_data:
       date: "2021-06-08"
       post: |
         Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
+    - type: id_oyun
       project_name: "Örnek Proje"
       project_excerpt: "Mae West"
       img: ":project1_thumb.jpg"
@@ -222,7 +222,7 @@ page_data:
       date: "2021-08-20"
       post: |
         You only live once, but if you do it right, once is enough.
-    - type: id_quote
+    - type: id_oyun
       project_name: "Örnek Proje"
       project_excerpt: "Mahatma Gandhi "
       img: ":project2_thumb.jpg"
