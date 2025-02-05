@@ -46,50 +46,50 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
-      color: "#62b462"
+    - title: "Socials"
+      type: id_socials
+      color: "#4b249e"
+    - title: "Epic Games"
+      type: id_epicgames
+      color: "#f54a1b"
+    - title: "My Projects"
+      type: id_projects
+      color: "#278522"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+    # My Projects
+    - type: id_projects
+      title: "Projects"
+      url: "https://thelight101.github.io/tabs/projects.html"
+      info: "My Projects listed here. (It's already on the left side. :) )"
 
     # jekyiiliquid
-    - type: id_jekyiiliquid
+    - type: id_socials
       title: "Jekyll"
       url: "https://jekyllrb.com/"
       info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
+    - type: id_socials
       title: "Jekyll Cheat Sheet"
       url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
       info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
+    - type: id_socials
       title: "Liquid for Designers"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
       info: "Liquid for Designers wiki on GitHub."
-    - type: id_jekyiiliquid
+    - type: id_socials
       title: "Liquid for Programmers"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
       info: "Liquid for Programmers wiki on GitHub."
-    - type: id_jekyiiliquid
+    - type: id_socials
       title: "Liquid Reference"
       url: "https://shopify.dev/api/liquid/"
       info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub."
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    # epicgames
+    - type: id_epicgames
+      title: "The Light Interactive"
+      url: "https://dev.epicgames.com/community/profile/organization/XKKM/the-light-interactive"
+      info: "The Light Interactive is a Epic Games Organisation managing by me."
 ---
       
