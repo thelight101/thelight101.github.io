@@ -42,14 +42,14 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "Check My Links Below"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
+    - title: "Socials"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "Web Design"
+    - title: "webdesign"
       type: id_webdesign
       color: "#F4A273"
     - title: "Programming"
@@ -91,4 +91,4 @@ page_data:
       title: "W3Schools"
       url: "https://www.w3schools.com/"
       info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
----
+      
