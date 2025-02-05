@@ -42,53 +42,53 @@ lng_pair: id_links
 page_data:
   main:
     header: "Bağlantılar"
-    info: "Bağlantılar sayfanızın açıklaması."
+    info: "Bağlantılarımı Kontrol Et ⬇️"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Tasarımı"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "Programlama"
-      type: id_programming
-      color: "#62b462"
+    - title: "Sosyal Medya"
+      type: id_socials
+      color: "#0f64db"
+    - title: "Epic Games"
+      type: id_epicgames
+      color: "#f54a1b"
+    - title: "Projelerim"
+      type: id_projects
+      color: "#278522"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow, profesyonel ve hevesli programcılar için bir soru-cevap sitesidir."
+    # My Projects
+    - type: id_projects
+      title: "Projelerim"
+      url: "https://thelight101.github.io/tabs/projects.html"
+      info: "Projelerim burada listelenmiştir. (Zaten sol tarafta var)"
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Düz metninizi statik web sitelerine ve bloglara dönüştürün."
-    - type: id_jekyiiliquid
-      title: "Jekyll Komutları"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "Hatırlanması gereken çok fazla Jekyll değişkeni ve filtresi olduğu için hepsini kafanızda tutmak zor olabilir. Bu sayfa, Jekyll ile yapabileceğiniz her şeye hızlı bir referans olabilir."
-    - type: id_jekyiiliquid
-      title: "Tasarımcılar için Liquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Tasarımcılar için Liquid GitHub wiki'si"
-    - type: id_jekyiiliquid
-      title: "Programcılar için Liquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Programcılar için Liquid GitHub wiki'si"
-    - type: id_jekyiiliquid
-      title: "Liquid Referans"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid, Shopify tarafından oluşturulan ve Ruby'de yazılan bir şablon dilidir. Artık GitHub'da açık kaynaklı bir proje olarak mevcuttur."
+    # Socials
+    - type: id_socials
+      title: "Instagram"
+      url: "https://www.instagram.com/egemenerendogan/"
+      info: "Günlük hayatım, projelerim ve içeriklerim burada! Takip etmeyi unutma."
+    - type: id_socials
+      title: "Youtube"
+      url: "https://www.youtube.com/@TheLlight101"
+      info: "Oyun oynanış videoları, canlı yayınlar ve eğlenceli içerikler burada! Topluluğa katılmak için abone ol."
+    - type: id_socials
+      title: "Twitch"
+      url: "https://www.twitch.tv/thelight101"
+      info: "Canlı yayınlarda eğlence ve oyun bir arada! Bana katıl ve sohbete dahil ol."
+    - type: id_socials
+      title: "My Discord Server"
+      url: "https://discord.gg/xxW4RG8J2j"
+      info: "Topluluğumuza katıl, sohbet et ve etkinlikleri kaçırma!"
+    - type: id_socials
+      title: "X (Twitter)"
+      url: "https://x.com/Light101real"
+      info: "Düşüncelerim, güncellemelerim ve anlık paylaşımlar burada. Takip et!"
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools, web'in tüm ana dillerinde ücretsiz çevrimiçi eğitimler, referanslar ve alıştırmalar sunar. HTML, CSS, JavaScript, Python, SQL, Java ve çok daha fazlası gibi popüler konuları kapsar."
+    # epicgames
+    - type: id_epicgames
+      title: "The Light Interactive"
+      url: "https://dev.epicgames.com/community/profile/organization/XKKM/the-light-interactive"
+      info: "The Light Interactive, benim yönettiğim bir Epic Games organizasyonudur."
 ---
