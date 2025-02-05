@@ -48,7 +48,7 @@ page_data:
   category:
     - title: "Socials"
       type: id_socials
-      color: "#4b249e"
+      color: "#0f64db"
     - title: "Epic Games"
       type: id_epicgames
       color: "#f54a1b"
@@ -64,27 +64,27 @@ page_data:
       url: "https://thelight101.github.io/tabs/projects.html"
       info: "My Projects listed here. (It's already on the left side. :)"
 
-    # jekyiiliquid
+    # Socials
     - type: id_socials
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
+      title: "Instagram"
+      url: "https://www.instagram.com/egemenerendogan/"
+      info: "My daily life, projects, and content are here! Don't forget to follow."
     - type: id_socials
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
+      title: "Youtube"
+      url: "https://www.youtube.com/@TheLlight101"
+      info: "Gameplay videos, live streams, and fun content await! Subscribe."
     - type: id_socials
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub."
+      title: "Twitch"
+      url: "https://www.twitch.tv/thelight101"
+      info: "Fun and gaming come together in my live streams! Join me and be part of the chat."
     - type: id_socials
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub."
+      title: "My Discord Server"
+      url: "https://discord.gg/xxW4RG8J2j"
+      info: "Join our community, chat, and don't miss out on events!"
     - type: id_socials
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub."
+      title: "X"
+      url: "https://x.com/Light101real"
+      info: "My thoughts, updates, and instant shares are here. Follow me!"
 
     # epicgames
     - type: id_epicgames
