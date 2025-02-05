@@ -12,19 +12,19 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+    - title: "Software"
+      type: id_software
+      color: "#4b249e"
+    - title: "Design"
+      type: id_design
+      color: "#f54a1b"
+    - title: "Games"
+      type: id_games
+      color: "#278522"
 
   list:
     # example
-    - type: id_example
+    - type: id_software
       project_name: "Example Project"
       project_excerpt: "Examples"
       img: ":project1_thumb.jpg"
@@ -172,7 +172,7 @@ page_data:
         ```
 
     # picture
-    - type: id_picture
+    - type: id_design
       project_name: "Example Project"
       project_excerpt: "Picture"
       img: ":project2_thumb.jpg"
@@ -206,7 +206,7 @@ page_data:
         But bears it out even to the edge of doom.
         If this be error and upon me proved,
         I never writ, nor no man ever loved.
-    - type: id_quote
+    - type: id_games
       project_name: "Example Project"
       project_excerpt: "Albert Einstein"
       img: ":project2_thumb.jpg"
@@ -214,7 +214,7 @@ page_data:
       date: "2021-06-08"
       post: |
         Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
+    - type: id_games
       project_name: "Example Project"
       project_excerpt: "Mae West"
       img: ":project1_thumb.jpg"
@@ -222,7 +222,7 @@ page_data:
       date: "2021-08-20"
       post: |
         You only live once, but if you do it right, once is enough.
-    - type: id_quote
+    - type: id_games
       project_name: "Example Project"
       project_excerpt: "Mahatma Gandhi "
       img: ":project2_thumb.jpg"
