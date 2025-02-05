@@ -62,7 +62,7 @@ page_data:
     - type: id_projects
       title: "Projects"
       url: "https://thelight101.github.io/tabs/projects.html"
-      info: "My Projects listed here. (It's already on the left side. :)"
+      info: "My Projects listed here. (It's already on the left side)"
 
     # Socials
     - type: id_socials
@@ -82,7 +82,7 @@ page_data:
       url: "https://discord.gg/xxW4RG8J2j"
       info: "Join our community, chat, and don't miss out on events!"
     - type: id_socials
-      title: "X"
+      title: "X (Twitter)"
       url: "https://x.com/Light101real"
       info: "My thoughts, updates, and instant shares are here. Follow me!"
 
