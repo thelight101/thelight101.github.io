@@ -8,7 +8,7 @@ page_data:
     info: "Çalışmalarım Ve Projelerim"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":101heading.jpg"
+    img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
