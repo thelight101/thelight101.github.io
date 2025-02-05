@@ -19,7 +19,7 @@ img: ":about.jpg"
 # if not specified, date will be used.
 #meta_modify_date: 2022-03-03 12:32:00 +0000
 # check the meta_common_description in _data/owner/[language].yml
-#meta_description: ""
+#meta_description: "Hello, I’m Egemen Eren Doğan I’m a 15-year-old designer! I have a strong interest in Unreal Engine 5 and develop projects using Blueprint. I’m skilled in 3D modeling, graphic design, and many other creative fields. I’m also fluent in Turkish, English, and German, enabling me to collaborate on diverse projects with ease."
 
 # optional
 # please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
