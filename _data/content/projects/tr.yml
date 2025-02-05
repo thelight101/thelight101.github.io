@@ -11,12 +11,12 @@ page_data:
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
- category:
+  category:
     - title: "Yazılım"
-      type: id_yazılım
+      type: id_yazilim
       color: "#4b249e"
     - title: "Tasarım"
-      type: id_tasarım
+      type: id_tasarim
       color: "#f54a1b"
     - title: "Oyun"
       type: id_oyun
@@ -24,7 +24,7 @@ page_data:
 
   list:
     # example
-    - type: id_yazılım
+    - type: id_yazilimm
       project_name: "Örnek Proje"
       project_excerpt: "Örnekler"
       img: ":project1_thumb.jpg"
@@ -172,7 +172,7 @@ page_data:
         ```
 
     # picture
-    - type: id_tasarım
+    - type: id_tasarim
       project_name: "Örnek Proje"
       project_excerpt: "Resim"
       img: ":project2_thumb.jpg"
