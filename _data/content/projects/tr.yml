@@ -208,7 +208,7 @@ page_data:
 
        [Projeyi İndir](/assets/projects/Bluetooth_Micro_Servo.sb2)
 
-        ### 2. Arduino Ambulans Sireni Projesi  
+       ### 2. Arduino Ambulans Sireni Projesi  
        Bu proje, bir buzzer kullanarak ambulans sireni efekti oluşturur. Kod içerisinde PWM kullanılarak sesin frekansı değiştirilir.
 
        #### Kullanılan Malzemeler:
