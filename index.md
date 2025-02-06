@@ -38,3 +38,7 @@ img: ":home-heading.jpg"
 ---
 #hello world
 I'm Egemen Eren Doğan. I'm a 15-year-old developer and designer! I have a special interest in Unreal Engine 5 and develop projects using Blueprint. I'm skilled in 3D modeling, graphic design, and many other areas. I also speak Turkish, English, and German. As for sports, I play basketball.
+
+{%- include util/auto-content-generator.liquid -%} {{ website_info_text_first }}
+
+{{ website_info_text_second }}
