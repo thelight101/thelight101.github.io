@@ -186,7 +186,7 @@ page_data:
 
     # quote
     - type: id_yazilim
-            project_name: "Arduino Projects"
+      project_name: "Arduino Projects"
       project_excerpt: "Egemen Eren Doğan"
       #img: ":project1_thumb.jpg"
       #img_title: "img title3"
