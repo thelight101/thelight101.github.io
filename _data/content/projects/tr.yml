@@ -194,32 +194,32 @@ page_data:
       post: |
        ## Arduino Projeleri: Bluetooth Micro Servo ve Ambulans Sireni
 
-       ### 1. Bluetooth Micro Servo Projesi  
+        ### 1. Bluetooth Micro Servo Projesi  
        Bu proje, bir Bluetooth modülü aracılığıyla micro servo motorunun kontrol edilmesini sağlar. Kullanıcı, mobil bir uygulama veya seri monitör üzerinden servo motorun açısını değiştirebilir.
 
-       #### Kullanılan Malzemeler:
+        #### Kullanılan Malzemeler:
        - Arduino (UNO/Nano/Pro Mini)
        - SG90 Micro Servo Motor
        - HC-05 Bluetooth Modülü
        - 9V Pil veya USB Güç Kaynağı
 
-       #### Çalışma Prensibi:
+        #### Çalışma Prensibi:
        Telefon veya bilgisayar üzerinden Bluetooth sinyali gönderildiğinde, servo motor belirlenen açılara hareket eder.
 
-       [Projeyi İndir](/projects/Bluetooth_Micro_Servo.sb2)
+       [Projeyi İndir](/assets/projects/Bluetooth_Micro_Servo.sb2)
 
-       ### 2. Arduino Ambulans Sireni Projesi  
+        ### 2. Arduino Ambulans Sireni Projesi  
        Bu proje, bir buzzer kullanarak ambulans sireni efekti oluşturur. Kod içerisinde PWM kullanılarak sesin frekansı değiştirilir.
 
-       #### Kullanılan Malzemeler:
+        #### Kullanılan Malzemeler:
        - Arduino (UNO/Nano)
        - Buzzer (Piezo veya Hoparlör)
        - 9V Pil veya USB Güç Kaynağı
 
-       #### Çalışma Prensibi:
+        #### Çalışma Prensibi:
        Arduino, belirli bir frekans değişimi ile buzzer üzerinden ambulans sireni sesi oluşturur.
 
-       [Projeyi İndir](projects/Arduino_Ambulans_Sireni.sb2)
+       [Projeyi İndir](/assets/projects/Arduino_Ambulans_Sireni.sb2)
 
         Bu projelerle ilgili sorularınızı veya geliştirme önerilerinizi yorumlarda paylaşabilirsiniz!
 
