@@ -36,8 +36,8 @@ img: ":home-heading.jpg"
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-#hello world
+{%- comment -%} #hello world {%- endcomment -%}
+
 I'm Egemen Eren Doğan. I'm a 15-year-old developer and designer! I have a special interest in Unreal Engine 5 and develop projects using Blueprint. I'm skilled in 3D modeling, graphic design, and many other areas. I also speak Turkish, English, and German. As for sports, I play basketball.
 
 {%- include util/auto-content-generator.liquid -%} {{ website_info_text_first }}
