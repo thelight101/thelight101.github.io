@@ -35,10 +35,4 @@ img: ":about.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-
-{%- comment -%} Ben Egemen Eren Doğan. Ben 15 yaşında developer ve tasarımcıyım! Unreal Engine 5'e özel ilgim var ve Blueprint ile projeler geliştiriyorum. 3D modelleme, grafik tasarımı ve daha birçok alanda yetenekliyim. Ayrıca Türkçe, İngilizce ve Almanca biliyorum, bu da farklı projelerde geniş bir iletişim ağına olanak sağlıyor. {%- endcomment -%}
-
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+Merhaba, Ben Egemen Eren Doğan. Ben 15 yaşında developer ve tasarımcıyım! Unreal Engine 5'e özel ilgim var ve Blueprint ile projeler geliştiriyorum. 3D modelleme, grafik tasarımı ve daha birçok alanda yetenekliyim. Ayrıca Türkçe, İngilizce ve Almanca biliyorum. Spor olarak basket oynuyorum.
