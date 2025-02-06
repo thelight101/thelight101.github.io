@@ -35,4 +35,4 @@ img: ":about.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: true
 ---
-SELAMLARR
+Hello, I'm Egemen Eren Doğan. I'm a 15-year-old developer and designer! I have a special interest in Unreal Engine 5 and develop projects using Blueprint. I'm skilled in 3D modeling, graphic design, and many other areas. I also speak Turkish, English, and German. As for sports, I play basketball.
