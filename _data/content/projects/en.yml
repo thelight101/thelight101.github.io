@@ -185,27 +185,44 @@ page_data:
         ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
+    - type: id_software
+      project_name: "Arduino Projects"
+      project_excerpt: "Egemen Eren Doğan"
       #img: ":project1_thumb.jpg"
       #img_title: "img title3"
-      date: "2021-05-27"
+      date: "2021-02-26"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+       ## Arduino Projects: Bluetooth Micro Servo and Ambulance Siren
+
+       ### 1. Bluetooth Micro Servo Project  
+       This project allows controlling a micro servo motor via a Bluetooth module. The user can change the servo motor's angle using a mobile application or the serial monitor.
+
+       #### Components Used:
+       - Arduino (UNO/Nano/Pro Mini)
+       - SG90 Micro Servo Motor
+       - HC-05 Bluetooth Module
+       - 9V Battery or USB Power Supply
+
+       #### Working Principle:
+       When a Bluetooth signal is sent from a phone or computer, the servo motor moves to the specified angles.
+
+       [Download Project](/assets/projects/Bluetooth_Micro_Servo.sb2)
+
+       ### 2. Arduino Ambulance Siren Project  
+       This project creates an ambulance siren effect using a buzzer. The sound frequency is changed using PWM in the code.
+
+       #### Components Used:
+       - Arduino (UNO/Nano)
+       - Buzzer (Piezo or Speaker)
+       - 9V Battery or USB Power Supply
+
+       #### Working Principle:
+       Arduino generates an ambulance siren sound by changing the buzzer's frequency at specific intervals.
+
+       [Download Project](/assets/projects/Arduino_Ambulans_Sireni.sb2)
+
+       Feel free to share your questions or suggestions for improvements in the comments!
+
     - type: id_games
       project_name: "Example Project"
       project_excerpt: "Albert Einstein"
