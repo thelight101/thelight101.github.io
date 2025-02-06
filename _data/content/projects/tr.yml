@@ -185,27 +185,44 @@ page_data:
         ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_oyun
-      project_name: "Örnek Proje"
-      project_excerpt: "William Shakespeare"
+    - type: id_yazilim
+            project_name: "Arduino Projects"
+      project_excerpt: "Egemen Eren Doğan"
       #img: ":project1_thumb.jpg"
       #img_title: "img title3"
-      date: "2021-05-27"
+      date: "2021-02-26"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+       ## Arduino Projeleri: Bluetooth Micro Servo ve Ambulans Sireni
+
+       ### 1. Bluetooth Micro Servo Projesi  
+       Bu proje, bir Bluetooth modülü aracılığıyla micro servo motorunun kontrol edilmesini sağlar. Kullanıcı, mobil bir uygulama veya seri monitör üzerinden servo motorun açısını değiştirebilir.
+
+       #### Kullanılan Malzemeler:
+       - Arduino (UNO/Nano/Pro Mini)
+       - SG90 Micro Servo Motor
+       - HC-05 Bluetooth Modülü
+       - 9V Pil veya USB Güç Kaynağı
+
+       #### Çalışma Prensibi:
+       Telefon veya bilgisayar üzerinden Bluetooth sinyali gönderildiğinde, servo motor belirlenen açılara hareket eder.
+
+       [Projeyi İndir](/projects/Bluetooth_Micro_Servo.sb2)
+
+       ### 2. Arduino Ambulans Sireni Projesi  
+       Bu proje, bir buzzer kullanarak ambulans sireni efekti oluşturur. Kod içerisinde PWM kullanılarak sesin frekansı değiştirilir.
+
+       #### Kullanılan Malzemeler:
+       - Arduino (UNO/Nano)
+       - Buzzer (Piezo veya Hoparlör)
+       - 9V Pil veya USB Güç Kaynağı
+
+       #### Çalışma Prensibi:
+       Arduino, belirli bir frekans değişimi ile buzzer üzerinden ambulans sireni sesi oluşturur.
+
+       [Projeyi İndir](projects/Arduino_Ambulans_Sireni.sb2)
+
+        Bu projelerle ilgili sorularınızı veya geliştirme önerilerinizi yorumlarda paylaşabilirsiniz!
+
     - type: id_oyun
       project_name: "Örnek Proje"
       project_excerpt: "Albert Einstein"
