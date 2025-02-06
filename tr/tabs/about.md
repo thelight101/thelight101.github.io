@@ -19,7 +19,7 @@ img: ":about.jpg"
 # if not specified, date will be used.
 #meta_modify_date: 2022-03-03 12:32:00 +0000
 # check the meta_common_description in _data/owner/[language].yml
-#meta_description: "merhaba"
+#meta_description: ""
 
 # optional
 # please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
@@ -36,7 +36,7 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+{%- comment -%} Ben Egemen Eren Doğan. Ben 15 yaşında developer ve tasarımcıyım! Unreal Engine 5'e özel ilgim var ve Blueprint ile projeler geliştiriyorum. 3D modelleme, grafik tasarımı ve daha birçok alanda yetenekliyim. Ayrıca Türkçe, İngilizce ve Almanca biliyorum, bu da farklı projelerde geniş bir iletişim ağına olanak sağlıyor. {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
