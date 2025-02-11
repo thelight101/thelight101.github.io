@@ -206,7 +206,7 @@ page_data:
        #### Çalışma Prensibi:
        Telefon veya bilgisayar üzerinden Bluetooth sinyali gönderildiğinde, servo motor belirlenen açılara hareket eder.
 
-       [Projeyi İndir](/assets/projects/Bluetooth_Micro_Servo.sb2)
+       [Projeyi İndir](https://github.com/thelight101/thelight101.github.io/raw/main/assets/projects/Bluetooth_Micro_Servo.sb2)
 
        ### 2. Arduino Ambulans Sireni Projesi  
        Bu proje, bir buzzer kullanarak ambulans sireni efekti oluşturur. Kod içerisinde PWM kullanılarak sesin frekansı değiştirilir.
@@ -219,7 +219,7 @@ page_data:
        #### Çalışma Prensibi:
        Arduino, belirli bir frekans değişimi ile buzzer üzerinden ambulans sireni sesi oluşturur.
 
-       [Projeyi İndir](/assets/projects/Arduino_Ambulans_Sireni.sb2)
+       [Projeyi İndir](https://github.com/thelight101/thelight101.github.io/raw/main/assets/projects/Arduino_Ambulans_Sireni.sb2)
 
        Bu projelerle ilgili sorularınızı veya geliştirme önerilerinizi yorumlarda paylaşabilirsiniz!
 
@@ -228,9 +228,36 @@ page_data:
       project_excerpt: "Albert Einstein"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
-      date: "2021-06-08"
+      date: "2024-07-12"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+       ## Down to Up - Test Süreci Başladı!
+
+       Merhaba oyun severler! 🎮  
+
+       The Light Interactive olarak **Down to Up** oyununu **tek başıma** geliştiriyorum ve şu anda **test sürecine** girmiş bulunuyoruz. Bu, oyuncuların geri bildirimleriyle oyunu daha da mükemmelleştirme süreci!  
+
+       ### 🕹 Oyun Hakkında  
+       **Down to Up**, parkur mekaniği ve korku temasını birleştiren sürükleyici bir oyun. Oyuncular, **karanlık ve tehlikeli ortamlar** arasında akıcı hareket mekanikleriyle hayatta kalmaya çalışıyor. Oyunda **kontrol noktalarıyla veya kontrol noktası olmadan** ilerleyebileceğiniz iki farklı mod bulunuyor.
+
+       ### 🚀 Test Aşamasında Neler Oluyor?  
+       Şu anda, oyunun mekaniklerini, optimizasyonunu ve korku ögelerinin etkisini test ediyoruz. Bu süreçte:  
+       ✔ Oynanış deneyimi analiz ediliyor  
+       ✔ Performans sorunları tespit ediliyor  
+       ✔ Geri bildirimler toplanıyor  
+
+       **Tester süreci şu anda devam ediyor ve oyunu test eden kişilerden geri bildirim almayı bekliyoruz!**  
+
+       ### 📥 Test Sürümünü İndir  
+       Test sürümünü indirmek için aşağıdaki bağlantıyı kullanabilirsiniz:  
+
+       🔗 **[Down to Up - Test Sürümünü İndir](https://drive.google.com/file/d/1fLXvGzTmkWiGQvWAqgiJka5gZyxFV2JJ/view?usp=sharing)**  
+
+       ### 📢 Geri Bildirimlerinizi Paylaşın!  
+       Test süreci boyunca geri bildirimlerinize ihtiyacım var! Oyun hakkında düşüncelerinizi, hata raporlarınızı ve önerilerinizi benimle paylaşabilirsiniz.  
+
+       💬 **Yorum yaparak veya benimle iletişime geçerek geri bildirimlerinizi iletebilirsiniz!**  
+
+       Teşekkürler ve iyi oyunlar! 🎮👾
     - type: id_oyun
       project_name: "Örnek Proje"
       project_excerpt: "Mae West"
