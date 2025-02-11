@@ -206,7 +206,7 @@ page_data:
        #### Working Principle:
        When a Bluetooth signal is sent from a phone or computer, the servo motor moves to the specified angles.
 
-       [Download Project](/assets/projects/Bluetooth_Micro_Servo.sb2)
+       [Download Project](https://github.com/thelight101/thelight101.github.io/raw/main/assets/projects/Bluetooth_Micro_Servo.sb2)
 
        ### 2. Arduino Ambulance Siren Project  
        This project creates an ambulance siren effect using a buzzer. The sound frequency is changed using PWM in the code.
@@ -219,18 +219,46 @@ page_data:
        #### Working Principle:
        Arduino generates an ambulance siren sound by changing the buzzer's frequency at specific intervals.
 
-       [Download Project](/assets/projects/Arduino_Ambulans_Sireni.sb2)
+       [Download Project](https://github.com/thelight101/thelight101.github.io/raw/main/assets/projects/Arduino_Ambulans_Sireni.sb2)
 
        Feel free to share your questions or suggestions for improvements in the comments!
 
     - type: id_games
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
+      project_name: "Down To Up Tester"
+      project_excerpt: "Egemen Eren Doğan"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
-      date: "2021-06-08"
+      date: "2024-02-12"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+        ## Down to Up - Testing Phase Has Started!
+
+       Hello gamers! 🎮  
+
+       As The Light Interactive, I am developing **Down to Up** alone, and we have now entered the **testing phase**. This is the process of refining the game with feedback from players!  
+
+       ### 🕹 About the Game  
+       **Down to Up** is an immersive game that combines parkour mechanics with a horror theme. Players must survive in **dark and dangerous environments** using fluid movement mechanics. The game features two different modes: **with checkpoints or without checkpoints**.
+
+       ### 🚀 What’s Happening in the Testing Phase?  
+       Currently, we are testing the game’s mechanics, optimization, and the effectiveness of horror elements. During this process:  
+       ✔ Gameplay experience is being analyzed  
+       ✔ Performance issues are being identified  
+       ✔ Feedback is being collected  
+
+       **The testing phase is ongoing, and I am looking forward to feedback from testers!**  
+
+       ### 📥 Download the Test Version  
+       You can download the test version using the link below:  
+
+       🔗 **[Download Down to Up - Test Version](https://drive.google.com/file/d/1fLXvGzTmkWiGQvWAqgiJka5gZyxFV2JJ/view?usp=sharing)**  
+
+       ### 📢 Share Your Feedback!  
+       I need your feedback throughout the testing phase! Feel free to share your thoughts, bug reports, and suggestions with me.  
+
+       💬 **You can leave a comment or contact me to share your feedback!**  
+
+       Thank you and happy gaming! 🎮👾  
+
     - type: id_games
       project_name: "Example Project"
       project_excerpt: "Mae West"
