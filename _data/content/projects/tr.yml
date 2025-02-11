@@ -224,8 +224,8 @@ page_data:
        Bu projelerle ilgili sorularınızı veya geliştirme önerilerinizi yorumlarda paylaşabilirsiniz!
 
     - type: id_oyun
-      project_name: "Örnek Proje"
-      project_excerpt: "Albert Einstein"
+      project_name: "Down To Up Tester"
+      project_excerpt: "Egemen Eren Doğan"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2024-07-12"
